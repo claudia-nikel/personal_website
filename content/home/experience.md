@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Victoria, BC"
   date_start = "2018-01-01"
-  date_end = "2018-4-30"
+  date_end = "2018-04-30"
   description = """
   Responsibilities included:
   * Designed emergency evacuation plans using AutoCAD, increasing the public safety of government buildings
