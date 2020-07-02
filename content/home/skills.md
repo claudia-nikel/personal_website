@@ -60,7 +60,7 @@ subtitle = ""
   icon = "file-code"
   icon_pack = "fas"
   name = "C++"
-  description = "basic programming"
+  description = "Basic Programming"
   
 [[feature]]
   icon = "chart-bar"
@@ -75,8 +75,8 @@ subtitle = ""
   description = "PivotTables, Filters, Conditional Formatting, Visualizations"
   
 [[feature]]
-  icon = "file-excel"
-  icon_pack = "fas"
+  icon = "star"
+  icon_pack = "far"
   name = "Apache Spark"
   description = "PivotTables, Filters, Conditional Formatting, Visualizations"
   
