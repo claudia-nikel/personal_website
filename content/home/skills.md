@@ -18,18 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "
-  * Data Wrangling
-  * Statistical Modelling
-  * Data Visualization
-  * ggplot2
-  "
+  description = "Data Wrangling, Statistical Modelling, Data Visualization, ggplot2"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "github-square"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = "Collaborative Software Development, Git Version Control"  
   
 [[feature]]
   icon = "camera-retro"
