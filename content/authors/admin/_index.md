@@ -1,7 +1,7 @@
 ---
 title: Claudia
 role: Recent graduate
-avatar_filename: img_6999.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
