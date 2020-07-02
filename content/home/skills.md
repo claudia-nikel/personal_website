@@ -18,7 +18,12 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "
+  * Data Wrangling
+  * Statistical Modelling
+  * Data Visualization
+  * ggplot2
+  "
   
 [[feature]]
   icon = "chart-line"
