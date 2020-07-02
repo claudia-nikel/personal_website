@@ -2,8 +2,8 @@
 title: Claudia
 role: Recent graduate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include soccer, running, biking, cooking and
+  exploring the PNW. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -14,27 +14,21 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/claud_tweety
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/claudia-nikel/Personal_Portfolio
 organizations:
-  - name: Stanford University
+  - name: University of British Columbia
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Data Science
+      institution: University of British Columbia
+      year: 2020
+    - course: B.S. in Civil Engineering
+      institution: University of Victoria
+      year: 2019
 email: ""
 superuser: true
 authors:
@@ -43,7 +37,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a recent graduate from the Masters of Data Science program at the University of British Columbia. Currently looking for employment in the Data Analytics and Data Science fields.
