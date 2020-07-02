@@ -19,13 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Masters Student"
+  title = "Urban Data Lab: Capstone Project"
   company = "University of British Columbia"
   company_url = ""
-  location = "Kelowna, BC"
-  date_start = "2019-09-01"
+  location = "Vancouver, BC"
+  date_start = "2020-05-01"
   date_end = "2020-07-01"
   description = """
+  Responsibilities included:
+  * Created a python program that queries live streaming sensor data from the UDL SkySpark database, cleans and uses appropriate ML methods to apply NRCan Secondary End-Use Classifications to the data
   """
 
 
