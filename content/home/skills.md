@@ -37,6 +37,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Classification, Clustering, Regression, Feature Selection, Neural Networks, NLP"
+  
+  [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "Database Design, MySQL"
 
 # Uncomment to use emoji icons.
 # [[feature]]
