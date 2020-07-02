@@ -32,6 +32,20 @@ date_format = "Jan 2006"
   * Coordinated with an app developer to help with the front-end development of the departments pre-planning app which helped streamline the apps release to the firefighters
   * Developed multiple technical documents on Abbotsford’s new pre-incident plan program which helped other fire departments in British Columbia implement their own program quicker and more efficiently
   """
+  
+  [[experience]]
+  title = "STUDENT"
+  company = "Abbotsford Fire Rescue Service"
+  company_url = ""
+  location = "Abbotsford, BC"
+  date_start = "2016-12-31"
+  date_end = "2017-05-01"
+  description = """
+  Responsibilities included:
+  * Independently collected, organized, and cleaned data on the city’s buildings and facilities, decreasing the time to create fire pre-plans
+  * Coordinated with an app developer to help with the front-end development of the departments pre-planning app which helped streamline the apps release to the firefighters
+  * Developed multiple technical documents on Abbotsford’s new pre-incident plan program which helped other fire departments in British Columbia implement their own program quicker and more efficiently
+  """
 
 [[experience]]
   title = "Facilities Engineering Assistant"
