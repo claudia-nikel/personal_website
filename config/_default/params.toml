@@ -97,7 +97,7 @@ address = {street = "", city = "Victoria", region = "BC", postcode = "", country
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.4284", longitude = "123.3656"}
+coordinates = {latitude = "48.4284", longitude = "-123.3656"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -112,7 +112,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/claud_tweety"},
+  {icon = "twitter", icon_pack = "fab", name = "Follw Me", link = "https://twitter.com/claud_tweety"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -273,7 +273,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine =2
+  engine =1
   api_key = ""
   zoom = 15
 
