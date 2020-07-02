@@ -39,6 +39,10 @@ date_format = "Jan 2006"
   location = "Victoria, BC"
   date_start = "2016-09-01"
   date_end = "2016-12-31"
-  description = """Generated spreadsheets about fluid leaks in buses by cleaning, and organizing years’ worth of data in order to pinpoint the problem areas, saving the environmental departments time sorting through data. Wrote and illustrated a technical fluid leak analysis report with summarized data visualizations which identified key problem areas for the department and helped reduce expenses on environmental cleanups"""
+  description = """
+  Responsibilities include:
+  * Generated spreadsheets about fluid leaks in buses by cleaning, and organizing years’ worth of data in order to pinpoint the problem areas, saving the environmental departments time sorting through data
+  * Wrote and illustrated a technical fluid leak analysis report with summarized data visualizations which identified key problem areas for the department and helped reduce expenses on environmental cleanups
+  """
 
 +++
