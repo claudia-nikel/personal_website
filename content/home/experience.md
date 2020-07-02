@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "Abbotsford Fire Rescue Service"
   company_url = ""
   location = "Abbotsford, BC"
-  date_start = "2016-12-31"
-  date_end = "2017-05-01"
+  date_start = "2017-01-01"
+  date_end = "2017-04-30"
   description = """
   Responsibilities included:
   * Independently collected, organized, and cleaned data on the city’s buildings and facilities, decreasing the time to create fire pre-plans
