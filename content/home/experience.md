@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "STUDENT"
+  company = "Abbotsford Fire Rescue Service"
+  company_url = ""
+  location = "Abbotsford, BC"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """
+  Responsibilities included:
+  * Independently collected, organized, and cleaned data on the city’s buildings and facilities, decreasing the time to create fire pre-plans
+  * Coordinated with an app developer to help with the front-end development of the departments pre-planning app which helped streamline the apps release to the firefighters
+  * Developed multiple technical documents on Abbotsford’s new pre-incident plan program which helped other fire departments in British Columbia implement their own program quicker and more efficiently
+  """
 
 [[experience]]
   title = "Fire Pre-Planning Technician"
@@ -25,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Abbotsford, BC"
   date_start = "2017-05-01"
-  date_end = "2017-8-31"
+  date_end = "2017-08-31"
   description = """
   Responsibilities included:
   * Independently collected, organized, and cleaned data on the city’s buildings and facilities, decreasing the time to create fire pre-plans
