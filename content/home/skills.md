@@ -38,11 +38,49 @@ subtitle = ""
   name = "Machine Learning"
   description = "Classification, Clustering, Regression, Feature Selection, Neural Networks, NLP"
   
-  [[feature]]
+[[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
   description = "Database Design, MySQL"
+
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Computing"
+  description = "AWS, RESTful API, Web Scraping"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Software Package & Scripting"
+  description = "Python & R Package Development, Scripting, Bash, Unit Testing, Travis Integration"
+
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "C++"
+  description = "basic programming"
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Tableau"
+  description = "Data Visualizations"
+
+[[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "Excel"
+  description = "PivotTables, Filters, Conditional Formatting, Visualizations"
+  
+[[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "Apache Spark"
+  description = "PivotTables, Filters, Conditional Formatting, Visualizations"
+  
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
