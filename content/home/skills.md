@@ -24,7 +24,10 @@ subtitle = ""
   icon = "github-square"
   icon_pack = "fab"
   name = "GitHub"
-  description = "Collaborative Software Development, Git Version Control"  
+  description = """
+  * Collaborative Software Development
+  * Git Version Control
+  """
   
 [[feature]]
   icon = "camera-retro"
