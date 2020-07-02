@@ -78,7 +78,7 @@ subtitle = ""
   icon = "star"
   icon_pack = "far"
   name = "Apache Spark"
-  description = "PivotTables, Filters, Conditional Formatting, Visualizations"
+  description = "Retrieve and Manipulate Streaming Data"
   
   
 
