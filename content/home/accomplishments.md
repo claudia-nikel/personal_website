@@ -18,5 +18,28 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "University of Victoria"
+  organization_url = "https://www.uvic.ca/engineering/civil/index.php"
+  title = "B.S. Civil Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-09-01"
+  date_end = "2019-04-30"
+  description = """
+  Relevant Courses:
+  * Data Wrangling
+  * Data Visualization
+  * Predictive Modeling
+  * Databases
+  * Statistical Inference
+  * Cloud Computing
+  * Clustering & Classification
+  * Neural Networks
+  * Supervised & Unsupervised Machine Learning
+  * Bayesian Statistics
+  
+  """
+
 
 +++
