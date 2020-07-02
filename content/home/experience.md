@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Masters Student"
+  company = "University of British Columbia"
+  company_url = ""
+  location = "Kelowna, BC"
+  date_start = "2019-09-01"
+  date_end = "2020-07-01"
+  description = """
+  """
+
+
+[[experience]]
+  title = "Emergency Plans Developer"
+  company = "Department of National Defence (DND)"
+  company_url = ""
+  location = "Victoria, BC"
+  date_start = "2018-09-01"
+  date_end = "2018-12-31"
+  description = """
+  """
+
+[[experience]]
   title = "Emergency Plans Developer"
   company = "Department of National Defence (DND)"
   company_url = ""
