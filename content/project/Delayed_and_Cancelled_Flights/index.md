@@ -6,13 +6,14 @@ tags:
 - Shiny App
 - Visualization
 - Data Science
+- Interactive
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 App: "https://claudia-nikel.shinyapps.io/R_code/"
 
 image:
-  caption: Photos of CIFAR-10 dataset
+  caption: Photo of App
   focal_point: Smart
 
 links:
