@@ -1,21 +1,22 @@
 ---
 title: CNN-Image Classification
-summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes.
+summary: An `interactive Tableau Dashboard` created using a Urban Social Disorder dataset from the Peace Research Institute Oslo. 
 tags:
-- CNN
-- Neural Network
+- Tableau
+- Interactive
+- Dashboard
 - Data Science
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-CNN: "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification"
+interactive Tableau Dashboard: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
 
 image:
-  caption: Photos of CIFAR-10 dataset
+  caption: Tableau dashboard
   focal_point: Smart
 
 links:
-url_code: "https://github.com/claudia-nikel/Personal_Portfolio/blob/master/CNN_Image_Classification/CNN_Image_Classification.ipynb"
+url_code: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
 url_pdf: ""
 url_slides: ""
 url_video: ""
