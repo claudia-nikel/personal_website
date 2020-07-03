@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: "My research interests include soccer, running, biking, cooking and
   exploring the PNW. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Data Visualizations
+  - Coding
 social:
   - icon: envelope
     icon_pack: fas
