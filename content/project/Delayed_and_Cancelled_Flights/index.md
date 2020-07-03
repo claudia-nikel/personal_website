@@ -17,7 +17,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://claudia-nikel.shinyapps.io/R_code/"
+url_code: "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/Shiny_App/R_code"
 url_pdf: ""
 url_slides: ""
 url_video: ""
