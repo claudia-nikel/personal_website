@@ -7,7 +7,7 @@ tags:
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-Mars_API: "https://github.com/claudia-nikel/maRs "
+Mars_API: "https://github.com/claudia-nikel/maRs"
 
 image:
   caption: Photo of temperature gauge
