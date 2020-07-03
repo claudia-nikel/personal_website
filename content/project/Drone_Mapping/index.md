@@ -8,7 +8,7 @@ tags:
 date: "2017-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-CNN: "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification"
+
 
 image:
   caption: Photo of 3D house model
