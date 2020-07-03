@@ -28,11 +28,16 @@ date_format = "Jan 2006"
   date_end = "2020-06-30"
   description = """
   Relevant Courses:
-  * Calculus
-  * Linear Algebra
-  * Statistics
-  * Computer Science
-  * Differential Equations
+  * Data Wrangling
+  * Data Visualization
+  * Predictive Modeling
+  * Databases
+  * Statistical Inference
+  * Cloud Computing
+  * Clustering & Classification
+  * Neural Networks
+  * Supervised & Unsupervised Machine Learning
+  * Bayesian Statistics
   """
 
 [[item]]
@@ -45,16 +50,11 @@ date_format = "Jan 2006"
   date_end = "2019-04-30"
   description = """
   Relevant Courses:
-  * Data Wrangling
-  * Data Visualization
-  * Predictive Modeling
-  * Databases
-  * Statistical Inference
-  * Cloud Computing
-  * Clustering & Classification
-  * Neural Networks
-  * Supervised & Unsupervised Machine Learning
-  * Bayesian Statistics
+  * Calculus
+  * Linear Algebra
+  * Statistics
+  * Computer Science
+  * Differential Equations
   """
 
 
