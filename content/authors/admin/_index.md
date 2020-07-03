@@ -2,8 +2,7 @@
 title: Claudia Nikel
 role: Recent graduate
 avatar_filename: avatar.jpg
-bio: "My interests include soccer, running, biking, cooking and
-  exploring the PNW. "
+bio: "My educational interests include Machine Learning, Data Visualizations, coding and anything Data Science related. "
 interests:
   - Machine Learning
   - Data Visualizations
