@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://github.com/claudia-nikel/maRs"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -41,5 +41,5 @@ An API to retrieve and visualize weather data from the last 7 Sols (Martian days
 
 `temperature`: retrieves the inputted Sol's temperature (converted from Farhenheit to degrees Celsius) from the summary table and visualizes it as a dial. The black bar is the average temperature for the Sol, which corresponds to the black text. The blue background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
 
-Link to projects repository: https://github.com/claudia-nikel/maRs <br/>
+Link to project repository: https://github.com/claudia-nikel/maRs <br/>
 Co-collaborator: KT Hobbs
