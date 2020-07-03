@@ -66,7 +66,7 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Tableau"
-  description = "Data Visualizations"
+  description = "Data Visualizations, Dashboards"
 
 [[feature]]
   icon = "file-excel"
