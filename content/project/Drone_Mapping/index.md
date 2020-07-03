@@ -1,20 +1,23 @@
 ---
-title: 3D Drone Modeling and 2D Drone Mapping
-summary: Created 3D models and collaborative maps using a drone and software platform. 
+title: Urban Social Disorder Visualizations
+summary: An `interactive Tableau Dashboard` created using a Urban Social Disorder dataset from the Peace Research Institute Oslo. 
 tags:
-- Drone
-- Mapping
-- Photography
-date: "2017-01-27T00:00:00Z"
+- Tableau
+- Interactive
+- Dashboard
+- Visualization
+- Data Science
+date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
+interactive Tableau Dashboard: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
 
 image:
-  caption: Photo of 3D house model
+  caption: Tableau dashboard
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -27,12 +30,9 @@ url_video: ""
 # slides: example
 ---
 
-Created 3D models and collaborative maps using a drone and software platform
+An interactive Tableau Dashboard created using a Urban Social Disorder dataset from the Peace Research Institute Oslo (PRIO) which contains information on urban social disorder events that occur in capitals and other major cities of the developing world between 1960 and 2014.
 
-<p align="center"><img src="/img/3Dmodel.png" alt="3Dmodel" width="1000"/></p>
+Visit: https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1 and https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard2<br/>
 
-Utilized drone imagery to create vegetation and elevation maps of buildings all of which can be used in the agriculture, construction, surveying and inspection industries 
-
-<p align="center"><img src="/img/3Dmaps.jpeg" alt="2Dmaps" width="600"/></p>
-
+Co-collaborators: Eva Nguyen, Ja Cho
 
