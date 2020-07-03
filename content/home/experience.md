@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
   Responsibilities included:
-  * Created a python program that queries live streaming sensor data from the UDL SkySpark database, cleans and uses appropriate ML methods to apply NRCan Secondary End-Use Classifications to the data
+  * Created a python program that queries live streaming sensor data from the UDL SkySpark database, cleans and uses appropriate Machine Learning methods to apply NRCan Secondary End-Use Classifications to the data
   """
 
 
