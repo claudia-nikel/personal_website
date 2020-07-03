@@ -1,5 +1,5 @@
 ---
-title: Claudia
+title: Claudia Nikel
 role: Recent graduate
 avatar_filename: avatar.jpg
 bio: "My interests include soccer, running, biking, cooking and
