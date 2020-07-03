@@ -1,8 +1,11 @@
 ---
-title: Mars API
-summary: A Mars_API to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA’s InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars.
+title: Delayed and Cancelled Flights App
+summary: `App` that uses flight data to show the worst airport connections for delayed and cancelled flights in the USA geographically. 
 tags:
-- API
+- App
+- Shiny App
+- Visualization
+- Interactive
 - Data Science
 date: "2020-01-27T00:00:00Z"
 
