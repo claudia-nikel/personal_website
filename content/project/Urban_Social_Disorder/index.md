@@ -30,7 +30,7 @@ url_video: ""
 # slides: example
 ---
 
-An interactive Tableau Dashboard created using a Urban Social Disorder dataset from the Peace Research Institute Oslo (PRIO) which contains information on urban social disorder events that occur in capitals and other major cities of the developing world between 1960 and 2014.
+An interactive Tableau Dashboard created using an Urban Social Disorder dataset from the Peace Research Institute Oslo (PRIO) which contains information on urban social disorder events that occur in capitals and other major cities of the developing world between 1960 and 2014.
 
 Visit: https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1 and https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard2<br/>
 
