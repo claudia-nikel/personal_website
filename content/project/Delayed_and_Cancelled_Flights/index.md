@@ -1,6 +1,6 @@
 ---
 title: Delayed & Cancelled Flights App
-summary: App that uses flight data to show the worst airport connections for delayed and cancelled flights in the USA geographically.
+summary: `App` that uses flight data to show the worst airport connections for delayed and cancelled flights in the USA geographically.
 tags:
 - App
 - Shiny App
@@ -13,7 +13,7 @@ date: "2020-01-27T00:00:00Z"
 App: "https://claudia-nikel.shinyapps.io/R_code/"
 
 image:
-  caption: Photo of App
+  caption: Photo of App layout
   focal_point: Smart
 
 links:
