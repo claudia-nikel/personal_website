@@ -1,17 +1,16 @@
 ---
-title: CNN: Image Classification
-summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes
+title: Mars API
+summary: A `Mars_API` to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA’s InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars.
 tags:
-- CNN
-- Neural Network
+- API
 - Data Science
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-CNN: "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification"
+Mars_API: "https://github.com/claudia-nikel/maRs"
 
 image:
-  caption: Photo of CNN images
+  caption: Photo of temperature gauge
   focal_point: Smart
 
 links:
@@ -25,19 +24,19 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#   slides: example
+# slides: example
 ---
 
-Created a convolutional neural network using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes (airplanes, automobiles. birds, horses, trucks, etc). Each layer used the ReLU activation function and the He initilization and I used a 3-block VGG model for the CNN. I plotted the accuracy and cross-entropy loss for the model with increasing number of epochs. <br/><br/>
+An API to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA's InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars. The python package built contains four functions: 
+<br/>
+
+`marsInfo`: returns a summary table of weather including the Sol number, datetime stamp of first recorded sample (`First_UTC`), last recorded sample (`Last_UTC`), the current season for Mars, as well as average (`av`), sample size (`ct`), minimum (`mn`) and maximum (`mx`) recordings for temperature (`AT`), horizontal windspeed (`HWS`), and pressure (`PRE`). <br/>
+
+`marsAverage`: takes the saved output from the marsInfo() function and returns the average temperature, windspeed, and pressure for the last 7 Sols.
+
+`windspeed`: retrieves the inputted Sol's horizontal wind speed (m/s) from the summary table and visualizes it as a dial. The black bar is the average windspeed for the Sol, which corresponds to the black text. The green background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
 
 
-**Plot of the Accuracy:** 
-In general, models improve with more epochs of training, but only to a point and then they will start to plateau in accuracy as they converge. Originally I tried using 100 epochs but it wouldn't run on my computer. I decided to slowly increase the number of epochs and was able to run the model with 40 epochs. The red line represents the model's performance on the training dataset and the blue line represents the models performance on the test dataset. The accuracy on the test data is around 62%. <br/><br/>
+`pressure`: retrieves the inputted Sol's pressure (Pascal) from the summary table and visualizes it as a dial. The black bar is the average pressure for the Sol, which corresponds to the black text. The orange background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
 
-**Plot of the Cross Entropy Loss:**
-You can see from this graph that the model overfits the test data because the models performance on the training data (red line) decreases (so it improves) whereas on the test data (blue line) improves slightly but then increases (gets worse) around 10 epochs. <br/><br/>
-
-**Conclusion:**
-Because the images are of very low resolution that could be a cause for the misclassification and lower accuracy. As well using a higher number of epochs, say 100, would definitely give an improved result. The model was able to learn the training data, which is a good sign. To improve the results of the model on the test data, you could add more VGG blocks. However, increasing the number of epochs (the number of complete passes through the training dataset) and the number of VGG blocks requires more computer power and time. This model also shows overfitting at around 10-15 epochs. <br/> <br/>
-
-Code for the CNN can be found here: https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification
+`temperature`: retrieves the inputted Sol's temperature (converted from Farhenheit to degrees Celsius) from the summary table and visualizes it as a dial. The black bar is the average temperature for the Sol, which corresponds to the black text. The blue background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
