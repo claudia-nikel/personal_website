@@ -38,6 +38,7 @@ In general, models improve with more epochs of training, but only to a point and
 
 **Plot of the Cross Entropy Loss:**
 You can see from this graph that the model overfits the test data because the models performance on the training data (red line) decreases (so it improves) whereas on the test data (blue line) improves slightly but then increases (gets worse) around 10 epochs. <br/><br/>
+
 <p align="center"><img src="images/CNN_classification_loss.png" alt="CNN_classification_loss" width="400"/></p>
 
 **Conclusion:**
