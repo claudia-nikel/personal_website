@@ -1,11 +1,11 @@
 ---
-title: CNN-Image Classification
-summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes.
+title: 3D Drone Modeling and 2D Drone Mapping
+summary: Created 3D models and collaborative maps using a drone and software platform. 
 tags:
-- CNN
-- Neural Network
-- Data Science
-date: "2020-01-27T00:00:00Z"
+- Drone
+- Mapping
+- Photography
+date: "2017-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 CNN: "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification"
