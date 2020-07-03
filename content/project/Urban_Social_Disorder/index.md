@@ -1,5 +1,5 @@
 ---
-title: Urban Social Disorder Visualizations
+title: Urban Social Disorder Dashboard
 summary: An `interactive Tableau Dashboard` created using a Urban Social Disorder dataset from the Peace Research Institute Oslo. 
 tags:
 - Tableau
