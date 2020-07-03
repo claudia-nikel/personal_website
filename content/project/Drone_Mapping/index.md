@@ -1,5 +1,5 @@
 ---
-title: 3D Drone Modeling & 2D Drone Mapping
+title: 3D Drone Modeling and 2D Drone Mapping
 summary: Created 3D models and collaborative maps using a drone and software platform. 
 tags:
 - Drone
@@ -28,9 +28,11 @@ url_video: ""
 ---
 
 Created 3D models and collaborative maps using a drone and software platform
+
 <p align="center"><img src="/img/3Dmodel.png" alt="3Dmodel" width="1000"/></p>
 
 Utilized drone imagery to create vegetation and elevation maps of buildings all of which can be used in the agriculture, construction, surveying and inspection industries 
+
 <p align="center"><img src="/img/3Dmaps.jpeg" alt="2Dmaps" width="600"/></p>
 
 
