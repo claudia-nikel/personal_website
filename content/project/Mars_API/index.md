@@ -24,7 +24,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 An API to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA's InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars. The python package built contains four functions: 
