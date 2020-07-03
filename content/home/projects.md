@@ -21,13 +21,14 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+ [[content.filter_button]]
+  name = "All"
+  tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Data Science"
-  #   tag = "Data Science"
+ [[content.filter_button]]
+     name = "Data Science"
+     tag = "Data Science"
+  
   
 
 [design]
