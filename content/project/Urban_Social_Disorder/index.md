@@ -21,6 +21,7 @@ url_code: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/D
 url_pdf: ""
 url_slides: ""
 url_video: ""
+url_dashboard: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
