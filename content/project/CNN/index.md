@@ -1,8 +1,9 @@
 ---
 title: CNN-Image Classification
-summary: A `Mars_API` to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA’s InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars.
+summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes.
 tags:
-- API
+- CNN
+- Neural Network
 - Data Science
 date: "2020-01-27T00:00:00Z"
 
