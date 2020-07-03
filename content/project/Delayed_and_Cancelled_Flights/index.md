@@ -1,5 +1,5 @@
 ---
-title: CNN-Image Classification
+title: Delayed & Cancelled Flights App
 summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes.
 tags:
 - CNN
