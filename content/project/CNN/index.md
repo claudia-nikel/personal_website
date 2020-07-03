@@ -11,7 +11,7 @@ date: "2020-01-27T00:00:00Z"
 CNN: "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification"
 
 image:
-  caption: Photo of temperature gauge
+  caption: Photos of CIFAR-10 dataset
   focal_point: Smart
 
 links:
