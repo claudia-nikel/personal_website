@@ -1,12 +1,12 @@
 ---
-title: Internal Project
-summary: Mars API
+title: Mars API
+summary: A `Mars_API` to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA’s InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars.
 tags:
 - API
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/claudia-nikel/maRs "
+Mars_API: "https://github.com/claudia-nikel/maRs "
 
 image:
   caption: Photo of temperature gauge
