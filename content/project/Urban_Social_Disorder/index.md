@@ -1,5 +1,5 @@
 ---
-title: CNN-Image Classification
+title: Urban Social Disorder Visualizations
 summary: An `interactive Tableau Dashboard` created using a Urban Social Disorder dataset from the Peace Research Institute Oslo. 
 tags:
 - Tableau
@@ -29,22 +29,10 @@ url_video: ""
 # slides: example
 ---
 
-Created a convolutional neural network using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes (airplanes, automobiles. birds, horses, trucks, etc). Each layer used the ReLU activation function and the He initilization and I used a 3-block VGG model for the CNN. I plotted the accuracy and cross-entropy loss for the model with increasing number of epochs. <br/><br/>
+An interactive Tableau Dashboard created using a Urban Social Disorder dataset from the Peace Research Institute Oslo (PRIO) which contains information on urban social disorder events that occur in capitals and other major cities of the developing world between 1960 and 2014.
 
+Visit: https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1 and https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard2<br/>
 
-**Plot of the Accuracy:** 
-In general, models improve with more epochs of training, but only to a point and then they will start to plateau in accuracy as they converge. Originally I tried using 100 epochs but it wouldn't run on my computer. I decided to slowly increase the number of epochs and was able to run the model with 40 epochs. The red line represents the model's performance on the training dataset and the blue line represents the models performance on the test dataset. The accuracy on the test data is around 62%. <br/><br/>
-
-<p align="center"><img src="/img/CNN_classification_accuracy.png" alt="CNN_classification_loss" width="400"/></p>
-
-**Plot of the Cross Entropy Loss:**
-You can see from this graph that the model overfits the test data because the models performance on the training data (red line) decreases (so it improves) whereas on the test data (blue line) improves slightly but then increases (gets worse) around 10 epochs. <br/><br/>
-
-<p align="center"><img src="/img/CNN_classification_loss.png" alt="CNN_classification_loss" width="400"/></p>
-
-**Conclusion:**
-Because the images are of very low resolution that could be a cause for the misclassification and lower accuracy. As well using a higher number of epochs, say 100, would definitely give an improved result. The model was able to learn the training data, which is a good sign. To improve the results of the model on the test data, you could add more VGG blocks. However, increasing the number of epochs (the number of complete passes through the training dataset) and the number of VGG blocks requires more computer power and time. This model also shows overfitting at around 10-15 epochs. <br/> <br/>
-
-Code for the CNN can be found here: https://github.com/claudia-nikel/Personal_Portfolio/blob/master/CNN_Image_Classification/CNN_Image_Classification.ipynb
+Co-collaborators: Eva Nguyen, Ja Cho
 
 
