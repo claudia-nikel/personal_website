@@ -1,6 +1,6 @@
 ---
 title: CNN: Image Classification
-summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes
+summary: A convolutional neural network using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes
 tags:
 - CNN
 - Neural Network
@@ -8,7 +8,8 @@ tags:
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-CNN: "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification"
+CNN:
+# "https://github.com/claudia-nikel/Personal_Portfolio/tree/master/CNN_Image_Classification"
 
 image:
   caption: Photo of CNN images
