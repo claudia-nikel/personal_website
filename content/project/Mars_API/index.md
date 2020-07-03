@@ -40,3 +40,6 @@ An API to retrieve and visualize weather data from the last 7 Sols (Martian days
 `pressure`: retrieves the inputted Sol's pressure (Pascal) from the summary table and visualizes it as a dial. The black bar is the average pressure for the Sol, which corresponds to the black text. The orange background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
 
 `temperature`: retrieves the inputted Sol's temperature (converted from Farhenheit to degrees Celsius) from the summary table and visualizes it as a dial. The black bar is the average temperature for the Sol, which corresponds to the black text. The blue background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
+
+Link to projects repository: https://github.com/claudia-nikel/maRs <br/>
+Co-collaborator: KT Hobbs
