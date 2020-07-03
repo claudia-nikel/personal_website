@@ -1,6 +1,6 @@
 ---
 title: CNN: Image Classification
-summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes
+summary: A cnn
 tags:
 - CNN
 - Neural Network
