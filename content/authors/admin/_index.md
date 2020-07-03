@@ -2,7 +2,7 @@
 title: Claudia
 role: Recent graduate
 avatar_filename: avatar.jpg
-bio: "My research interests include soccer, running, biking, cooking and
+bio: "My interests include soccer, running, biking, cooking and
   exploring the PNW. "
 interests:
   - Machine Learning
