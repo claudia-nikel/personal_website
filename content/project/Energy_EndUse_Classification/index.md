@@ -54,7 +54,7 @@ The basic idea is to first condense the ~7800 NC sensors in the Pharmacy buildin
 **Results and Visualization Dashboard** <br/>
 The resulting end-use labels for all EC sensors in the Pharmacy Building were:
 
-<p align="center"><img src="/img/Number_of_sensors.png" alt="Number_of_sensors_per_EndUse" width="200"/></p>
+<p align="center"><img src="/img/Number_of_sensors.png" alt="Number_of_sensors_per_EndUse" width="600"/></p>
 
 Each EC Sensor’s ID and end-use category label was stored back in the UDL InfluxDB at the end of the modelling process. This allows the label to be accessed along with the energy usage readings for that sensor. Using Grafana open source visualization software and the Flux language, the team created a pie-chart as a proof of concept result for the overall process of querying data from the database, classifying end-use energy types for each EC sensor, storing the results, and finally accessing and visualizing the stored results.
 
