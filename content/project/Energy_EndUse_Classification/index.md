@@ -1,20 +1,21 @@
 ---
-title: Mars API
-summary: A `Mars_API` to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA’s InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars.
+title: Energy End-Use Classification
+summary: For my Capstone prokect I helped creat a python program that queries live streaming sensor data from the UDL SkySpark database, cleans and uses appropriate Machine Learning methods to apply NRCan Secondary End-Use Classifications to the data
 tags:
-- API
+- python
+- classification
 - Data Science
-date: "2020-01-27T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 Mars_API: "https://github.com/claudia-nikel/maRs"
 
 image:
-  caption: Photo of temperature gauge
+  caption: Overview of Project Solution
   focal_point: Smart
 
 links:
-url_code: "https://github.com/claudia-nikel/maRs"
+url_code: "https://urbandatalab.io/project/mds-captone-2020/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -27,25 +28,30 @@ url_video: ""
 # slides: example
 ---
 
+Deployed a Python program to classify live-streaming equipment end-uses using hierarchical clustering with 95% accuracy
+• Deployed a Python program to manipulate and predict on 66 million rows of NoSQL data
+• Solved a business problem by predicting 200+ sensors into 6 end-uses for anomaly detection
+• Identified data discrepancies in Python that improved model accuracy by 5%
+
+<br/>
+
+Consulted with technical and non-technical stakeholders
+• Addressed data type issues to the senior leadership team that improved data warehousing 
+• Translated statistical techniques and model results to the senior leadership team 
+
+<br/>
+Collaborative coding with the data science team 
+• Guided data science team through statistical techniques that improved model performance 
+• Managed analytics project with 3 data scientists that resulted in model delivery after 2 months
+
+<br/>
 An API to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA's InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars. The python package built contains four functions: 
 <br/>
 
-`marsInfo`: returns a summary table of weather including the Sol number, datetime stamp of first recorded sample (`First_UTC`), last recorded sample (`Last_UTC`), the current season for Mars, as well as average (`av`), sample size (`ct`), minimum (`mn`) and maximum (`mx`) recordings for temperature (`AT`), horizontal windspeed (`HWS`), and pressure (`PRE`). <br/>
 
-`marsAverage`: takes the saved output from the marsInfo() function and returns the average temperature, windspeed, and pressure for the last 7 Sols.
-
-`windspeed`: retrieves the inputted Sol's horizontal wind speed (m/s) from the summary table and visualizes it as a dial. The black bar is the average windspeed for the Sol, which corresponds to the black text. The green background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
 
 <p align="center"><img src="/img/maRs_wind_speed.png" alt="maRs_temperature" width="200"/></p>
 
 
-`pressure`: retrieves the inputted Sol's pressure (Pascal) from the summary table and visualizes it as a dial. The black bar is the average pressure for the Sol, which corresponds to the black text. The orange background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
-
-<p align="center"><img src="/img/maRs_pressure.png" alt="maRs_pressure" width="200"/></p>
-
-`temperature`: retrieves the inputted Sol's temperature (converted from Farhenheit to degrees Celsius) from the summary table and visualizes it as a dial. The black bar is the average temperature for the Sol, which corresponds to the black text. The blue background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
-
-<p align="center"><img src="/img/maRs_temperature.png" alt="maRs_temperature" width="200"/></p>
-
-Link to project repository: https://github.com/claudia-nikel/maRs <br/>
-Co-collaborator: KT Hobbs
+Link to project on companies website: https://urbandatalab.io/project/mds-captone-2020/ <br/>
+Co-collaborator: Eva Nguyen, Connor Lee, Alex Tamm
