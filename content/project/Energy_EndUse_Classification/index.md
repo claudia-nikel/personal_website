@@ -34,7 +34,17 @@ The end-use classification model was written in the Python language and makes us
 <p align="center"><img src="/img/CapstoneProgramFlowChart.png" alt="CapstoneProgramFlowChart" width="200"/></p>
 
 <br/>
+# Introduction
+This project was completed by myself and three other of my classmates in the UBC Master of Data Science Program (MDS) and was completed in partnership with UBC Urban Data Lab as a requirement of the program. The focus of the 9-week project was to build a semi-supervised classification model capable of assigning a secondary energy end-use category to all energy usage sensors (i.e. electrical meters/submeters) in the Pharmaceutical Sciences Building on UBC’s Vancouver campus. The results could then be used to sum up the energy usage by end-use category for a given time period and display the results in a web-based visualization dashboard.
 
+<br/>
+# About the Data
+The data used for this project came from UDL’s InfluxDB SKYSPARK instance and was queried using the InfluxDB-Python package and the InfluxQL language. The project scope was limited to the Pharmaceutical Sciences Building (Pharmacy Building) because this modern building has a significant number of sensors that are well documented with descriptive tags. 
+<p align="center"><img src="/img/Capstone_Data..png" alt="Capstone_Queried_Data" width="200"/></p>
+
+
+
+<br/>
 # About the Model
 The basic idea is to first condense the ~7800 NC sensors in the Pharmacy building down to a more manageable size using clustering. Next, model and extract information on how these clusters of NC sensors react relative to each EC sensor. Finally, pass the numbers representing that relationship between NC and EC sensors into a supervised classification model along with some other information about the EC sensors and a “training” set of EC sensors that have already been manually labelled with end-use types. Once this model has been trained on this set of EC sensors, it can be used to predict end-uses for data without known end-uses and the results can be stored back into UDL’s InfluxDB instance. Please see the project’s GitHub repository for a full report and more details on the model.
 
