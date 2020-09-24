@@ -16,7 +16,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://urbandatalab.io/project/mds-captone-2020/"
+url_code: "https://github.com/UBC-UrbanDataLab/Classifying-End-Use-MDS2020 "
 url_pdf: ""
 url_slides: ""
 url_video: ""
