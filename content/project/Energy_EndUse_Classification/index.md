@@ -34,7 +34,7 @@ The end-use classification model was written in the Python language and makes us
 <p align="center"><img src="/img/CapstoneProgramFlowChart.png" alt="CapstoneProgramFlowChart" width="200"/></p>
 
 <br/>
-# Introduction
+# Introduction <br/>
 This project was completed by myself and three other of my classmates in the UBC Master of Data Science Program (MDS) and was completed in partnership with UBC Urban Data Lab as a requirement of the program. The focus of the 9-week project was to build a semi-supervised classification model capable of assigning a secondary energy end-use category to all energy usage sensors (i.e. electrical meters/submeters) in the Pharmaceutical Sciences Building on UBC’s Vancouver campus. The results could then be used to sum up the energy usage by end-use category for a given time period and display the results in a web-based visualization dashboard.
 
 <br/>
