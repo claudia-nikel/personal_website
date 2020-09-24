@@ -1,6 +1,6 @@
 ---
 title: Energy End-Use Classification
-summary: For my Capstone prokect I helped creat a python program that queries live streaming sensor data from the UDL SkySpark database, cleans and uses appropriate Machine Learning methods to apply NRCan Secondary End-Use Classifications to the data
+summary: For my Capstone project I helped create a python program that queries live streaming sensor data from the UDL SkySpark database, cleans and uses appropriate Machine Learning methods to apply NRCan Secondary End-Use Classifications to the data
 tags:
 - python
 - classification
@@ -28,21 +28,21 @@ url_video: ""
 # slides: example
 ---
 
-Deployed a Python program to classify live-streaming equipment end-uses using hierarchical clustering with 95% accuracy
-• Deployed a Python program to manipulate and predict on 66 million rows of NoSQL data
-• Solved a business problem by predicting 200+ sensors into 6 end-uses for anomaly detection
-• Identified data discrepancies in Python that improved model accuracy by 5%
+Deployed a Python program to classify live-streaming equipment end-uses using hierarchical clustering with 95% accuracy <br/>
+- Deployed a Python program to manipulate and predict on 66 million rows of NoSQL data
+- Solved a business problem by predicting 200+ sensors into 6 end-uses for anomaly detection
+- Identified data discrepancies in Python that improved model accuracy by 5%
 
 <br/>
 
-Consulted with technical and non-technical stakeholders
-• Addressed data type issues to the senior leadership team that improved data warehousing 
-• Translated statistical techniques and model results to the senior leadership team 
+Consulted with technical and non-technical stakeholders <br/>
+- Addressed data type issues to the senior leadership team that improved data warehousing 
+- Translated statistical techniques and model results to the senior leadership team 
 
 <br/>
-Collaborative coding with the data science team 
-• Guided data science team through statistical techniques that improved model performance 
-• Managed analytics project with 3 data scientists that resulted in model delivery after 2 months
+Collaborative coding with the data science team <br/>
+- Guided data science team through statistical techniques that improved model performance 
+- Managed analytics project with 3 data scientists that resulted in model delivery after 2 months
 
 <br/>
 An API to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA's InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars. The python package built contains four functions: 
