@@ -28,20 +28,21 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-  Deployed a Python program to classify live-streaming equipment end-uses using hierarchical clustering with 95% accuracy <br/>
+  Deployed a Python program to classify live-streaming equipment end-uses using hierarchical clustering with 95% accuracy: <br/>
   * Deployed a Python program to manipulate and predict on 66 million rows of NoSQL data
   * Solved a business problem by predicting 200+ sensors into 6 end-uses for anomaly detection
   * Identified data discrepancies in Python that improved model accuracy by 5%
 
   <br/>
 
-  Consulted with technical and non-technical stakeholders <br/>
+  Consulted with technical and non-technical stakeholders: <br/>
   * Addressed data type issues to the senior leadership team that improved data warehousing 
   * Translated statistical techniques and model results to the senior leadership team 
 
   <br/>
-  Collaborative coding with the data science team <br/>
-  * Guided data science team through statistical techniques that improved model performance 
+  
+  Collaborative coding with the data science team: <br/>
+  * Guided data science team through statistical techniques that improved model performance
   * Managed analytics project with 3 data scientists that resulted in model delivery after 2 months
   """
 
