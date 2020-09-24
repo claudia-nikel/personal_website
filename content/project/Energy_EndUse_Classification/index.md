@@ -39,9 +39,9 @@ This project was completed by myself and three other of my classmates in the UBC
 
 **About the Data** <br/>
 The data used for this project came from UDL’s InfluxDB SKYSPARK instance and was queried using the InfluxDB-Python package and the InfluxQL language. The project scope was limited to the Pharmaceutical Sciences Building (Pharmacy Building) because this modern building has a significant number of sensors that are well documented with descriptive tags. The only sensors requiring end-uses were those that measure energy consumption (such as an electrical meter at the inlet of the building or sub-meter for energy fed to a specific system, floor, or piece of equipment). These sensors of interest are referred to in this project as Energy Consumption (EC) sensors. All other sensors in the building (such as temperature sensors, room occupancy sensors, fan speed sensors, ventilation system sash opening sensors, etc.) are referred to as Non-Energy Consumption (NC) sensors but were used as inputs to the model to help with the goal of predicting the end-uses of the EC sensors. There were just over 200 EC sensors and 7,800 NC sensors present in the Pharmacy Building’s data.
+
+
 <p align="center"><img src="/img/Capstone_Data.png" alt="Capstone_Queried_Data" width="200"/></p>
-
-
 
 
 **About the Model** <br/>
