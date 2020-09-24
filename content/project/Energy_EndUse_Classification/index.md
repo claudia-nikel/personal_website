@@ -54,6 +54,14 @@ The basic idea is to first condense the ~7800 NC sensors in the Pharmacy buildin
 **Results and Visualization Dashboard** <br/>
 The resulting end-use labels for all EC sensors in the Pharmacy Building were:
 
+<p align="center"><img src="/img/Number_of_sensors.png" alt="Number_of_sensors_per_EndUse" width="200"/></p>
+
+Each EC Sensor’s ID and end-use category label was stored back in the UDL InfluxDB at the end of the modelling process. This allows the label to be accessed along with the energy usage readings for that sensor. Using Grafana open source visualization software and the Flux language, the team created a pie-chart as a proof of concept result for the overall process of querying data from the database, classifying end-use energy types for each EC sensor, storing the results, and finally accessing and visualizing the stored results.
+
+<p align="center"><img src="/img/Capstone_Dashboard.png" alt="Capstone_Dashboard" width="200"/></p>
+
+At this time, this proof of concept dashboard is not publicly accessible but as seen in the screen shot above, the pie-chart is a summation of the energy used within the Pharmacy Building, grouped by end-use category for the given date-range.
+
 
 <br/> <br/>
 Link to project repository: https://github.com/UBC-UrbanDataLab/Classifying-End-Use-MDS2020 <br/>
