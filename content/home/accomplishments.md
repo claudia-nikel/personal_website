@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to SQL"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/06c5380524f16ace7700627ce5a262a74e39e3d0"
+  date_start = "2019-10-15"
   date_end = ""
-  description = ""
+  description = "Learned SQL syntax shared by many types of databases, such as PostgreSQL, MySQL, SQL Server, and Oracle."
 
 [[item]]
   organization = "edX"
