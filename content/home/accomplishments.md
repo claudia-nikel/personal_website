@@ -26,26 +26,16 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/06c5380524f16ace7700627ce5a262a74e39e3d0"
   date_start = "2019-10-15"
   date_end = ""
-  description = "Learned SQL syntax shared by many types of databases, such as PostgreSQL, MySQL, SQL Server, and Oracle."
+  description = "Learned SQL syntax shared by many types of databases, such as PostgreSQL, MySQL, SQL Server, and Oracle. Syntax includes: selecting columns, filtering rows, aggregate functions and sorting & grouping."
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Introduction to Python"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/1d859873fc71b82afb223f595d12be593da4f306"
+  date_start = "2019-08-02"
+  date_end = ""
+  description = "Learned powerful ways to store and manipulate data, and helpful data science tools to begin conducting my own analyses, including: lists, functions and NumPy"
 
 +++
