@@ -24,15 +24,15 @@
   weight = 40
   
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Accomplishments"
+  url = "#accomplishments"
   weight = 50
   
 [[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  name = "Projects"
+  url = "#projects"
   weight = 60
-
+  
 [[main]]
   name = "Contact"
   url = "#contact"
