@@ -80,7 +80,11 @@ subtitle = ""
   name = "Apache Spark"
   description = "Retrieve and Manipulate Streaming Data"
   
-  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Jira, Slack"
 
 # Uncomment to use emoji icons.
 # [[feature]]
