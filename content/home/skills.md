@@ -36,7 +36,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Classification, Clustering, Regression, Feature Selection, Neural Networks, NLP"
+  description = "Classification (Discriminant Analysis, KNN, Neural Networks), Clustering (K-Means, Gaussian Mixture, Hierarchical), Regression (Linear, GLM, Decision Trees), Feature Selection, NLP"
   
 [[feature]]
   icon = "database"
@@ -48,7 +48,7 @@ subtitle = ""
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
-  description = "AWS, RESTful API, Web Scraping"
+  description = "AWS (S3, EMR), Hadoop (MapReduce), Spark (Cassandra, PySpark), RESTful API, Web Scraping"
 
 [[feature]]
   icon = "laptop-code"
@@ -72,7 +72,7 @@ subtitle = ""
   icon = "file-excel"
   icon_pack = "fas"
   name = "Excel"
-  description = "PivotTables, Filters, Conditional Formatting, Visualizations"
+  description = "PivotTables, Filters, Conditional Formatting, Visualizations, VBA Macros"
   
 [[feature]]
   icon = "star"
