@@ -42,7 +42,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Database Design, MySQL"
+  description = "Database Design, MySQL, PostgreSQL"
 
 [[feature]]
   icon = "cloud"
