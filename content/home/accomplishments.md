@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+ [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Joining Data in SQL"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/022f56e0f1de246afd36b1195598a549add18554"
+  date_start = "2020-10-18"
+  date_end = ""
+  description = "Learned joining tables, using set theory and subqueries in PostgreSQL"
+  
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -37,5 +47,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-02"
   date_end = ""
   description = "Learned powerful ways to store and manipulate data, and helpful data science tools to begin conducting my own analyses, including: lists, functions and NumPy"
+  
+
 
 +++
