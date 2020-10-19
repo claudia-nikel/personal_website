@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Introduction to SQL"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/06c5380524f16ace7700627ce5a262a74e39e3d0"
-  date_start = "2019-10-15"
+  date_start = "2020-10-15"
   date_end = ""
   description = "Learned SQL syntax shared by many types of databases, such as PostgreSQL, MySQL, SQL Server, and Oracle. Syntax includes: selecting columns, filtering rows, aggregate functions and sorting & grouping."
 
