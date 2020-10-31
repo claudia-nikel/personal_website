@@ -84,7 +84,7 @@ subtitle = ""
   icon = "chart-pie"
   icon_pack = "fas"
   name = "Power BI"
-  description = "Interactive reports using hierarchies, drill down paths, sorting, filtering, DAX functions, calculated columns 7 tables, calculated measures, and quick measures"
+  description = "Interactive reports using hierarchies, drill down paths, sorting, filtering, DAX functions, calculated columns & tables, calculated measures, and quick measures"
 
 [[feature]]
   icon = "tools"
