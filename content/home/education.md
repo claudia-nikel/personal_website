@@ -43,7 +43,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Victoria"
   organization_url = "https://www.uvic.ca/engineering/civil/index.php"
-  title = "B.S. in Civil Engineering"
+  title = "B.Eng. in Civil Engineering"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
