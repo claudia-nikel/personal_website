@@ -21,6 +21,16 @@ date_format = "Jan 2006"
  [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
+  title = "Introduction to Power BI"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/5f5949dd4f851fa63fa34f053951da0c120d239a?share=true"
+  date_start = "2020-10-31"
+  date_end = ""
+  description = "Learned how to load and transform data using Power Query, created visualizations & interactive reports, and used DAX formulas to create customized calculated columns & fields"
+
+ [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
   title = "Joining Data in SQL"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/022f56e0f1de246afd36b1195598a549add18554"
