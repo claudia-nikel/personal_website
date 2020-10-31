@@ -82,7 +82,7 @@ subtitle = ""
   
 [[feature]]
   icon = "PowerBI"
-  icon_pack = ""
+  icon_pack = "custom"
   name = "Power BI"
   description = "Interactive reports using hierarchies, drill down paths, sorting, filtering, DAX functions, calculated columns & tables, calculated measures, and quick measures"
 
