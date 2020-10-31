@@ -25,7 +25,7 @@ education:
     - course: M.S. in Data Science
       institution: University of British Columbia
       year: 2020
-    - course: B.S. in Civil Engineering
+    - course: B.Eng. in Civil Engineering
       institution: University of Victoria
       year: 2019
 email: ""
