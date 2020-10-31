@@ -81,8 +81,8 @@ subtitle = ""
   description = "Retrieve and Manipulate Streaming Data"
   
 [[feature]]
-  icon = "powerbi4"
-  icon_pack = "custom"
+  icon = "chart-pie"
+  icon_pack = "fas"
   name = "Power BI"
   description = "Interactive reports using hierarchies, drill down paths, sorting, filtering, DAX functions, calculated columns & tables, calculated measures, and quick measures"
 
