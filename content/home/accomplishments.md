@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Kaggle"
+  organization_url = "https://www.kaggle.com"
+  title = "Pandas"
+  url = ""
+  certificate_url = "https://www.kaggle.com/learn/certification/claudianikel/pandas"
+  date_start = "2020-12-09"
+  date_end = ""
+  description = "Learned creating, reading, writing, indexing, selecting, assigning, summary functions, maps, grouping, sorting, date types, missing values, renaming and combining"
+
  [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -58,6 +69,5 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Learned powerful ways to store and manipulate data, and helpful data science tools to begin conducting my own analyses, including: lists, functions and NumPy"
   
-
 
 +++
