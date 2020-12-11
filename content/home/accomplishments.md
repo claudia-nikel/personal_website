@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+ [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Experimental Design in Python"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/450d6c2ccfb7185fab74d0dbc80baf2695128679"
+  date_start = "2020-12-09"
+  date_end = ""
+  description = "Learned steps for exploratory data analysis (EDA), hypothesis testing (t-test, Chi-square, Pearson, ANOVA, etc.), dealing with multiple factors, Type I and Type II errors, the power-sample size-effect size relationship, and dealing with assumptions of test."
+
 
 [[item]]
   organization = "Kaggle"
