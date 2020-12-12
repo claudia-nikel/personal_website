@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Data Science Consultant"
+  company = "Gevity Consulting Inc."
+  company_url = ""
+  location = "Victoria, BC"
+  date_start = "2020-11-30"
+  date_end = ""
+  description = """
+  Responsibilities included:
+  * •	Work as part of a team to identify business challenges and needs, then translate them by designing and developing advanced analytics solutions
+  """
+
+[[experience]]
   title = "Urban Data Lab: Capstone Project"
   company = "University of British Columbia"
   company_url = ""
