@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities included:
-  * •	Work as part of a team to identify business challenges and needs, then translate them by designing and developing advanced analytics solutions
+  * Work as part of a team to identify business challenges and needs, then translate them by designing and developing advanced analytics solutions
   """
 
 [[experience]]
