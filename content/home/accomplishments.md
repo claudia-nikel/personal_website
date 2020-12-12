@@ -21,6 +21,17 @@ date_format = "Jan 2006"
  [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
+  title = "Customer Analytics and A/B Testing in Python"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/2c184283203f610e14b9043ed8937f791b6ac388"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Learned the ins and outs of how to use Python to analyze customer behavior and business trends as well as how to create, run, and analyze A/B tests to make proactive, data-driven business decisions."
+ 
+ 
+ [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
   title = "Experimental Design in Python"
   url = ""
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/450d6c2ccfb7185fab74d0dbc80baf2695128679"
