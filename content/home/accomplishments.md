@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Kaggle"
+  organization_url = "https://www.kaggle.com"
+  title = "Intro to SQL"
+  url = ""
+  certificate_url = "https://www.kaggle.com/learn/certification/claudianikel/intro-to-sql"
+  date_start = "2020-12-12"
+  date_end = ""
+  description = "Learned SQL for working with databases, using Google BigQuery to scale to massive datasets."
+
+
+
  [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
