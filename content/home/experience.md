@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities included:
-  Data Analysis:
+  - Data Analysis:
   * Take a proactive approach to gathering requirements from a variety of stakeholders and develop them into an analytical solutions
   * Collaborate with Data Engineers/Analysts/Scientists to support the end-to-end development of analytical products 
   * Analyze large data sets to identify market/business sector trends, customer buying patterns, etc. to inform sales, marketing, and operational decisions
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   * Craft compelling data based stories and communication to business stakeholders
   * Create python scripts to automate analytical tasks
   * Query data using SQL and edit stored procedures
-  Business Support:
+  - Business Support:
   * Responsible for building and maintaining supporting relationships with business stakeholders through the response to ad hoc analysis requests and supporting & enhancing automated reports
   * Prioritize projects to maintain focus on adding value to the organization
   * Supporte the usage & driving adoption of analytical products and reports
