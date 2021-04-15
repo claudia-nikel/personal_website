@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   * Craft compelling data based stories and communication to business stakeholders
   * Create python scripts to automate analytical tasks
   * Query data using SQL and edit stored procedures
+  <br/> 
   <br/>
  Business Support:
    <br/>
