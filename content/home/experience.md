@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   * Create python scripts to automate analytical tasks
   * Query data using SQL and edit stored procedures
   <br/>
-   Business Support:
+ Business Support:
    <br/>
   * Responsible for building and maintaining supporting relationships with business stakeholders through the response to ad hoc analysis requests and supporting & enhancing automated reports
   * Prioritize projects to maintain focus on adding value to the organization
