@@ -19,12 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Junior Data Analyst"
+  company = "Rocky Mountaineer"
+  company_url = "https://www.rockymountaineer.com"
+  location = "Victoria, BC"
+  date_start = "2021-01-11"
+  date_end = ""
+  description = """
+  Responsibilities included:
+  Data Analysis:
+  * Take a proactive approach to gathering requirements from a variety of stakeholders and develop them into an analytical solutions
+  * Collaborate with Data Engineers/Analysts/Scientists to support the end-to-end development of analytical products 
+  * Analyze large data sets to identify market/business sector trends, customer buying patterns, etc. to inform sales, marketing, and operational decisions
+  * Apply and integrate statistical, mathematical, and business analysis skills to support the Analytics team in managing complex data from a variety of sources
+  * Craft compelling data based stories and communication to business stakeholders
+  Business Support:
+  * Responsible for building and maintaining supporting relationships with business stakeholders through the response to ad hoc analysis requests and supporting & enhancing automated reports
+  * Prioritize projects to maintain focus on adding value to the organization
+  * Supporte the usage & driving adoption of analytical products and reports
+  """
+
+[[experience]]
   title = "Data Science Consultant"
   company = "Gevity Consulting Inc."
-  company_url = ""
+  company_url = "https://gevityinc.com"
   location = "Victoria, BC"
   date_start = "2020-11-30"
-  date_end = ""
+  date_end = "2021-03-01"
   description = """
   Responsibilities included:
   * Work as part of a team to identify business challenges and needs, then translate them by designing and developing advanced analytics solutions
@@ -33,7 +54,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Urban Data Lab: Capstone Project"
   company = "University of British Columbia"
-  company_url = ""
+  company_url = "https://urbandatalab.io"
   location = "Vancouver, BC"
   date_start = "2020-05-01"
   date_end = "2020-07-01"
