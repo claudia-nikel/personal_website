@@ -48,7 +48,7 @@ subtitle = ""
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
-  description = "AWS (S3, EMR), Hadoop (MapReduce), Spark (Cassandra, PySpark), RESTful API, Web Scraping"
+  description = "AWS (S3, EMR), Hadoop (MapReduce), Spark (Cassandra, PySpark), RESTful API, Web Scraping, Azure"
 
 [[feature]]
   icon = "laptop-code"
