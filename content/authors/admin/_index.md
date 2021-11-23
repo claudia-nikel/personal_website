@@ -1,6 +1,6 @@
 ---
 title: Claudia Nikel
-role: Recent graduate
+role: Data Analyst
 avatar_filename: avatar.jpg
 bio: "My educational interests include Machine Learning, Data Visualizations, coding and anything Data Science related. "
 interests:
@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a recent graduate from the Masters of Data Science program at the University of British Columbia. Currently looking for employment in the Data Analytics and Data Science fields.
+I am a Data Analyst for Rocky Mountaineer which is the largest private rail-tour company in North America. I am passionate about data and helping businesses push data-informed decisions to become data-driven decisions. 
