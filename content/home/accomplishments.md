@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Google"
+  organization_url = "https://www.google.ca"
+  title = "Google Cloud Big Data and Machine Learning Fundamentals"
+  url = ""
+  certificate_url = "https://www.cloudskillsboost.google/public_profiles/73647522-d56c-409e-b2e8-5ffc52c0e5e9/badges/1734029"
+  date_start = "2022-02-22"
+  date_end = ""
+  description = "Learned to identify the purpose and value of Google Cloud products and services and interact with Google Cloud services.I learned to describe ways in which customers have used Google Cloud and used Big Data and ML products on Google Cloud: App Engine, Google Kubernetes Engine, and Compute Engine. And I made use of BigQuery, Google’s managed data warehouse for analytics."
+
+
 [[item]]
   organization = "Kaggle"
   organization_url = "https://www.kaggle.com"
