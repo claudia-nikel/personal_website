@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Data Scientist for Audettte which is a company whose mission is to get carbon out of buildings and we do that by creating net-zero roadmaps for large commercial real estate portfolios through our software-as-a-service 
+I am a Data Scientist for Audette which is a company whose mission is to get carbon out of buildings and we do that by creating net-zero roadmaps for large commercial real estate portfolios through our software-as-a-service 
