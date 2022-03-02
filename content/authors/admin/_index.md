@@ -1,6 +1,6 @@
 ---
 title: Claudia Nikel
-role: Data Analyst
+role: Data Scientist
 avatar_filename: avatar.jpg
 bio: "My educational interests include Machine Learning, Data Visualizations, coding and anything Data Science related. "
 interests:
@@ -18,8 +18,8 @@ social:
     icon_pack: fab
     link: https://github.com/claudia-nikel/Personal_Portfolio
 organizations:
-  - name: University of British Columbia
-    url: ""
+  - name: Audette
+    url: https://audette.io
 education:
   courses:
     - course: M.S. in Data Science
@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Data Analyst for Rocky Mountaineer which is the largest private rail-tour company in North America. I am passionate about data and helping businesses push data-informed decisions to become data-driven decisions. 
+I am a Data Scientist for Audettte which is a company whose mission is to get carbon out of buildings and we do that by creating net-zero roadmaps for large commercial real estate portfolios through our software-as-a-service 
