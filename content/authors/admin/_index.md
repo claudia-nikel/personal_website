@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Data Scientist for Audette which is a company whose mission is to get carbon out of buildings and we do that by creating net-zero roadmaps for large commercial real estate portfolios through our software-as-a-service (Saas). I am passionate about data and helping businesses push data-informed decisions to become data-driven decisions. 
+I am a Data Scientist for Audette which is a climate tech start up company. Audette's mission is to get carbon out of buildings and we do that by creating net-zero roadmaps for large commercial real estate portfolios through data and machine learning approaches. I am passionate about data and helping businesses push data-informed decisions to become data-driven decisions.
