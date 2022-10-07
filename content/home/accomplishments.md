@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Google"
+  organization_url = "https://www.google.ca"
+  title = "Modernizing Data Lakes and Data Warehouses with Google Cloud"
+  url = ""
+  certificate_url = "https://www.cloudskillsboost.google/public_profiles/73647522-d56c-409e-b2e8-5ffc52c0e5e9/badges/2703164"
+  date_start = "2022-10-07"
+  date_end = ""
+  description = "The two key components of any data pipeline are data lakes and warehouses. This course highlights use-cases for each type of storage and dives into the available data lake and warehouse solutions on Google Cloud in technical detail. Also, this course describes the role of a data engineer, the benefits of a successful data pipeline to business operations, and examines why data engineering should be done in a cloud environment."
+
 
 [[item]]
   organization = "Google"
@@ -51,8 +61,8 @@ date_format = "Jan 2006"
   date_start = "2020-12-10"
   date_end = ""
   description = "Learned the ins and outs of how to use Python to analyze customer behavior and business trends as well as how to create, run, and analyze A/B tests to make proactive, data-driven business decisions."
- 
- 
+
+
  [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -93,7 +103,7 @@ date_format = "Jan 2006"
   date_start = "2020-10-18"
   date_end = ""
   description = "Learned joining tables, using set theory and subqueries in PostgreSQL"
-  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -113,6 +123,6 @@ date_format = "Jan 2006"
   date_start = "2019-08-02"
   date_end = ""
   description = "Learned powerful ways to store and manipulate data, and helpful data science tools to begin conducting my own analyses, including: lists, functions and NumPy"
-  
+
 
 +++
