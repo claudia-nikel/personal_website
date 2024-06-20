@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   date_end = "2021-03-01"
   description = """
   Responsibilities included:
-  * Work as part of a team to identify business challenges and needs, then translate them by designing and developing advanced analytics solutions
+  * **Collaborated with a team to identify business challenges and needs** and translated them into advanced analytics solutions for Gevity clients through thoughtful design and development. Specifically supported a key engagement to develop an analytic strategy for an innovative life science firm.
   """
 
 [[experience]]
