@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "https://medium.com/@claudia.nikel/creating-an-interactive-mapping-tool-within-a-jupyter-notebook-6a1f407dec2d"
   image: ""
 ---
