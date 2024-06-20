@@ -41,8 +41,8 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL"
-  description = "Database Design, MySQL, PostgreSQL, Google BigQuery, Database Design, Query Optimization"
+  name = "Databases"
+  description = "MySQL, PostgreSQL, Google BigQuery, Database Design, Query Optimization"
 
 [[feature]]
   icon = "cloud"
