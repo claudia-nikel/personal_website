@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Data Scientist for Audette which is a climate tech startup company. Audette's mission is to get carbon out of buildings and we do that by creating net-zero roadmaps for large commercial real estate portfolios through data and machine learning approaches. I am passionate about data and helping businesses push data-informed decisions to become data-driven decisions.
+I am a results-driven data professional with a strong foundation in data analytics, data science and data engineering. Experienced in leading teams and implementing data-driven solutions to transform complex data into actionable insights. Proficient in Python, R, SQL, and cloud platforms (AWS, GCP, Azure), and skilled at optimizing processes for efficient and impactful operations.
