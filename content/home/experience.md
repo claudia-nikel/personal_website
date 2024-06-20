@@ -19,16 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Data Scientist"
+  title = "Data Scientist, Data Platform Team Lead"
   company = "Audette"
   company_url = "https://audette.io"
   location = "Victoria, BC"
   date_start = "2022-03-01"
-  date_end = ""
+  date_end = "2024-06-01"
   description = """
   Responsibilities included:
-  
-
+  * **Led a multidisciplinary team** of Software, ML, MLOps, and Building Science Engineers in developing a modeling platform. This expert system employs machine learning, graph optimization algorithms, and a rules engine to create carbon reduction plans for commercial real estate across North America.
+* **Established the company's first data warehouse in BigQuery**, laying the foundation for comprehensive data gathering and analytics.
+* **Developed PostgreSQL application databases** to support and power our products' front and back ends, optimizing them for front-end analytics and high-performance read/write operations.
+* **Created dashboards using Google Looker**, providing Building Scientists with a QA tool for our modeling platform and identifying areas for improvement.
+* **Collaborated with senior management** to plan and set quarterly objectives aligned with business goals. Successfully executed these objectives with my team, achieving 80% of our targets in the most recent quarter.
   """
 
 [[experience]]
@@ -96,17 +99,6 @@ date_format = "Jan 2006"
   Collaborative coding with the data science team: <br/>
   * Guided data science team through statistical techniques that improved model performance
   * Managed analytics project with 3 data scientists that resulted in model delivery after 2 months
-  """
-
-
-[[experience]]
-  title = "Emergency Plans Developer"
-  company = "Department of National Defence (DND)"
-  company_url = ""
-  location = "Victoria, BC"
-  date_start = "2018-09-01"
-  date_end = "2018-12-31"
-  description = """
   """
 
 [[experience]]
