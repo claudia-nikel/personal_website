@@ -87,7 +87,7 @@ subtitle = ""
   description = "Interactive reports using hierarchies, drill down paths, sorting, filtering, DAX functions, calculated columns & tables, calculated measures, and quick measures. Custom pagenated reports and automation of report generation through Power Automate."
 
 [[feature]]
-  icon = "pipe-value"
+  icon = "car"
   icon_pack = "fas"
   name = "ETL"
   description = "dbt, Dataflow"
