@@ -36,13 +36,13 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Classification (Discriminant Analysis, KNN, Neural Networks), Clustering (K-Means, Gaussian Mixture, Hierarchical), Regression (Linear, GLM, Decision Trees), Feature Selection, NLP"
+  description = "Classification, Clustering, Regression, Feature Selection, NLP"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Database Design, MySQL, PostgreSQL, Google BigQuery"
+  description = "Database Design, MySQL, PostgreSQL, Google BigQuery, Database Design, Query Optimization"
 
 [[feature]]
   icon = "cloud"
@@ -65,8 +65,8 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Tableau"
-  description = "Data Visualizations, Dashboards"
+  name = "Data Visualizations & Dashboards"
+  description = "Tableau, PowerBI, Looker"
 
 [[feature]]
   icon = "file-excel"
@@ -87,10 +87,16 @@ subtitle = ""
   description = "Interactive reports using hierarchies, drill down paths, sorting, filtering, DAX functions, calculated columns & tables, calculated measures, and quick measures. Custom pagenated reports and automation of report generation through Power Automate."
 
 [[feature]]
+  icon = "pipe-value"
+  icon_pack = "fas"
+  name = "ETL"
+  description = "dbt, Dataflow"
+
+[[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "Tools"
-  description = "Jira, Slack"
+  name = "Project Management Tools"
+  description = "Jira, Slack, Shortcut"
 
 # Uncomment to use emoji icons.
 # [[feature]]

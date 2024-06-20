@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - ''
 
 
 date: '2024-01-21T00:00:00Z'
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Medium
-publication_short: In *ICW*
+publication_short: ''
 
 abstract: The article offers a detailed guide for setting up Jupyter Notebooks within Visual Studio Code. It includes instructions on creating and managing virtual environments, configuring Jupyter kernels, and installing necessary packages. The article provides clear, step-by-step instructions to help users enhance their development workflow in VS Code, making it particularly useful for data scientists and developers looking to streamline their coding environment.
 

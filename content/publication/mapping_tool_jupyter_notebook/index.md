@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - ''
 
 
 date: '2024-02-06T00:00:00Z'
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Medium
-publication_short: In *ICW*
+publication_short: ''
 
 abstract: The article provides a step-by-step guide to developing a dynamic mapping application using Python. It covers the installation of necessary libraries, including Folium and GeoPandas, and demonstrates how to visualize geospatial data interactively. The tutorial includes practical examples, such as plotting geographical points and regions, and offers tips for customizing maps with various features. This resource is valuable for data scientists and analysts interested in integrating interactive maps into their Jupyter Notebooks.
 
