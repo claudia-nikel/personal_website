@@ -24,7 +24,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: Medium
 publication_short: In *ICW*
 
 abstract: The article provides a step-by-step guide to developing a dynamic mapping application using Python. It covers the installation of necessary libraries, including Folium and GeoPandas, and demonstrates how to visualize geospatial data interactively. The tutorial includes practical examples, such as plotting geographical points and regions, and offers tips for customizing maps with various features. This resource is valuable for data scientists and analysts interested in integrating interactive maps into their Jupyter Notebooks.
