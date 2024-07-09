@@ -6,14 +6,14 @@ tags:
 date: "2024-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-CNN: "https://github.com/claudia-nikel/BarkBuddy/tree/main"
+React App: "https://barkbuddydog.com/"
 
 image:
   caption: Photos of V1 of website
   focal_point: Smart
 
 links:
-url_code: "https://barkbuddydog.com/"
+url_code: "https://github.com/claudia-nikel/BarkBuddy"
 url_pdf: ""
 url_slides: ""
 url_video: ""
