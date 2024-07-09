@@ -1,13 +1,9 @@
 ---
-title: Urban Social Disorder Dashboard Test
-summary: An `interactive Tableau Dashboard` created using a Urban Social Disorder dataset from the Peace Research Institute Oslo. 
+title: BarkBuddy React App
+summary: A personal dog dictionary application that allows users to add pictures and basic information about dogs they meet at the dog park.
 tags:
-- Tableau
-- Interactive
-- Dashboard
-- Visualization
-- Data Science
-date: "2020-01-27T00:00:00Z"
+- Web Development
+date: "2024-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 interactive Tableau Dashboard: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
