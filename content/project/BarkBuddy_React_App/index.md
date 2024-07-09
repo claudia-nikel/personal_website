@@ -7,13 +7,13 @@ tags:
 - Dashboard
 - Visualization
 - Data Science
-date: "2024-07-27T00:00:00Z"
+date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 React App: "https://barkbuddydog.com/"
 
 image:
-  caption: Photos of V1 of website
+  caption: Tableau dashboard
   focal_point: Smart
 
 links:
