@@ -3,6 +3,10 @@ title: BarkBuddy React App
 summary: A personal dog dictionary `React App` that allows users to add pictures and basic information about dogs they meet at the dog park. 
 tags:
 - Tableau
+- Interactive
+- Dashboard
+- Visualization
+- Data Science
 date: "2024-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
