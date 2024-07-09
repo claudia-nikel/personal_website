@@ -1,5 +1,5 @@
 ---
-title: Urban Social Disorder Dashboard
+title: BarkBuddy React App
 summary: An `interactive Tableau Dashboard` created using a Urban Social Disorder dataset from the Peace Research Institute Oslo. 
 tags:
 - Tableau
