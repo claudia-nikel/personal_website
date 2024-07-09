@@ -14,30 +14,26 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+### Data Science and Analysis
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "Data Wrangling, Statistical Modelling, Data Visualization, ggplot2"
-  
-[[feature]]
-  icon = "github-square"
-  icon_pack = "fab"
-  name = "GitHub"
-  description = "Collaborative Software Development, Git Version Control" 
-  
+
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "NumPy, Matplotlib, Plotly, Pandas"
-  
+
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Classification, Clustering, Regression, Feature Selection, NLP"
-  
+
+### Data Management and Databases
 [[feature]]
   icon = "database"
   icon_pack = "fas"
@@ -45,10 +41,42 @@ subtitle = ""
   description = "MySQL, PostgreSQL, Google BigQuery, Database Design, Query Optimization"
 
 [[feature]]
+  icon = "car"
+  icon_pack = "fas"
+  name = "ETL"
+  description = "dbt, Dataflow"
+
+### Cloud Computing and Big Data
+[[feature]]
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
   description = "AWS (S3, EMR), Hadoop (MapReduce), Spark (Cassandra, PySpark), RESTful API, Web Scraping, Azure, Google Cloud (GCP)"
+
+[[feature]]
+  icon = "star"
+  icon_pack = "far"
+  name = "Apache Spark"
+  description = "Retrieve and Manipulate Streaming Data"
+
+### Programming Languages and Frameworks
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "C++"
+  description = "Basic Programming"
+
+[[feature]]
+  icon = "react"
+  icon_pack = "fab"
+  name = "React.js"
+  description = "Component-based UI development, State management, Hooks, Routing"
+
+[[feature]]
+  icon = "node"
+  icon_pack = "fab"
+  name = "Node.js"
+  description = "Server-side development, Express.js, RESTful APIs, Asynchronous programming"
 
 [[feature]]
   icon = "laptop-code"
@@ -56,12 +84,14 @@ subtitle = ""
   name = "Software Package & Scripting"
   description = "Python & R Package Development, Scripting, Bash, Unit Testing, Travis Integration"
 
+### Software Development and Tools
 [[feature]]
-  icon = "file-code"
-  icon_pack = "fas"
-  name = "C++"
-  description = "Basic Programming"
-  
+  icon = "github-square"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = "Collaborative Software Development, Git Version Control"
+
+### Data Visualization and Reporting
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
@@ -69,34 +99,24 @@ subtitle = ""
   description = "Tableau, PowerBI, Looker"
 
 [[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Power BI & Power Automate"
+  description = "Interactive reports, DAX functions, calculated measures, custom paginated reports, Power Automate integration"
+
+[[feature]]
   icon = "file-excel"
   icon_pack = "fas"
   name = "Excel"
   description = "PivotTables, Filters, Conditional Formatting, Visualizations, VBA Macros"
-  
-[[feature]]
-  icon = "star"
-  icon_pack = "far"
-  name = "Apache Spark"
-  description = "Retrieve and Manipulate Streaming Data"
-  
-[[feature]]
-  icon = "chart-pie"
-  icon_pack = "fas"
-  name = "Power BI & Power Automate"
-  description = "Interactive reports using hierarchies, drill down paths, sorting, filtering, DAX functions, calculated columns & tables, calculated measures, and quick measures. Custom pagenated reports and automation of report generation through Power Automate."
 
-[[feature]]
-  icon = "car"
-  icon_pack = "fas"
-  name = "ETL"
-  description = "dbt, Dataflow"
-
+### Project Management and Collaboration
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
   name = "Project Management Tools"
   description = "Jira, Slack, Shortcut"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
