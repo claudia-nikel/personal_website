@@ -13,7 +13,7 @@ date: "2024-07-09T00:00:00Z"
 React App: "https://barkbuddydog.com/"
 
 image:
-  caption: Tableau dashboard
+  caption: V1 website
   focal_point: Smart
 
 links:
