@@ -41,9 +41,9 @@ BarkBuddy is a personal dog dictionary application that allows users to add pict
 - User-friendly interface
 - Responsive design <br/><br/>
 
-<p align="center"><img src="/img/BarkBuddy_Dog_Detail_Edit_Page.png" alt="BarkBuddy_Dog_Detail_Edit_Page" width="400"/></p>
+<p align="center"><img src="/img/BarkBuddy_Dog_Detail_Edit_Page.png" alt="BarkBuddy_Dog_Detail_Edit_Page" width="600"/></p>
 
-<p align="center"><img src="/img/BarkBuddy_Dog_Detail_Page.png" alt="BarkBuddy_Dog_Detail_Page" width="400"/></p>
+<p align="center"><img src="/img/BarkBuddy_Dog_Detail_Page.png" alt="BarkBuddy_Dog_Detail_Page" width="600"/></p>
 
 ## Deployment
 
