@@ -17,11 +17,11 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
+url_code: "https://github.com/claudia-nikel/BarkBuddy/tree/main"
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_dashboard: "https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1"
+url_dashboard: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
