@@ -60,6 +60,6 @@ The frontend is deployed using Netlify. Follow the official Netlify documentatio
 ## Conclusion
 This project provided me with comprehensive experience in the full end-to-end development of a website, especially focusing on the data aspects and connecting and managing an application database on the server. Additionally, I gained in-depth knowledge of various AWS products, including Elastic Beanstalk, API Gateway, RDS, and S3.  <br/> <br/>
 
-Code for the CNN can be found here: https://github.com/claudia-nikel/BarkBuddy/tree/main
+Code for the app can be found here: https://github.com/claudia-nikel/BarkBuddy/tree/main
 
 
