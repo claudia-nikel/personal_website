@@ -1,6 +1,6 @@
 ---
-title: CNN-Image Classification
-summary: A convolutional neural network (`CNN`) using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes.
+title: BarkBuddy React App
+summary: A personal dog dictionary application that allows users to add pictures and basic information about dogs they meet at the dog park.
 tags:
 - Web Development
 date: "2024-07-27T00:00:00Z"
