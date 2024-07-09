@@ -7,7 +7,7 @@ tags:
 - Dashboard
 - Visualization
 - Data Science
-date: "2020-01-27T00:00:00Z"
+date: "2024-07-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 React App: "https://barkbuddydog.com/"
