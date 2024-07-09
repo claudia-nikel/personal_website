@@ -1,6 +1,6 @@
 ---
 title: BarkBuddy React App
-summary: A `React App` created using a Urban Social Disorder dataset from the Peace Research Institute Oslo. 
+summary: A personal dog dictionary `React App` that allows users to add pictures and basic information about dogs they meet at the dog park. 
 tags:
 - Tableau
 - Interactive
