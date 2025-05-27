@@ -1,6 +1,6 @@
 ---
 title: Claudia Nikel
-role: Data Scientist
+role: Clinical Data Analyst
 avatar_filename: avatar.jpg
 bio: "My educational interests include Machine Learning, Data Visualizations, coding and anything Data Science related. "
 interests:
