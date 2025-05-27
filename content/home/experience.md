@@ -19,38 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Clinical Data Analyst"
-  company = "Alimentiv"
-  company_url = "https://alimentiv.com"
-  location = "Victoria, BC"
-  date_start = "2025-06-03"
-  date_end =
-  description = """
-  Responsibilities included:
-* TBD
-
-  """
-
-[[experience]]
-  title = "Data Engineer & Scientist"
-  company = "Posterity Group"
-  company_url = "https://www.posteritygroup.ca"
-  location = "Victoria, BC"
-  date_start = "2024-08-22"
-  date_end = "2025-06-02"
-  description = """
-  Responsibilities included:
-* **Designed, developed, and maintained scalable and efficient data pipelines** to collect, process, and store large datasets for energy demand analysis.
-* **Collaborated with engineers and analysts** to optimize energy models through robust preprocessing and validation workflows.
-* **Implemented data validation and cleansing processes** to ensure data quality and consistency for model development.
-* **Monitored pipeline performance**, resolved issues, and optimized reliability and speed.
-* **Developed documentation for pipelines**, data sources, and models, ensuring transparency and reproducibility.
-* **Applied cloud platforms and secure data storage solutions** to manage infrastructure.
-
-  """
-
-
-[[experience]]
   title = "Data Scientist, Data Platform Team Lead"
   company = "Audette"
   company_url = "https://audette.io"
@@ -177,4 +145,3 @@ date_format = "Jan 2006"
   """
 
 +++
-
