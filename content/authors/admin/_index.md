@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 bio: "My educational interests include Machine Learning, Data Visualizations, coding and anything Data Science related. "
 interests:
   - Machine Learning
+  - Data Engineering
   - Data Visualizations
   - Coding
 social:
@@ -18,8 +19,8 @@ social:
     icon_pack: fab
     link: https://github.com/claudia-nikel/Personal_Portfolio
 organizations:
-  - name: Audette
-    url: https://audette.io
+  - name: Alimentiv
+    url: https://audette.io](https://alimentiv.com
 education:
   courses:
     - course: M.S. in Data Science
